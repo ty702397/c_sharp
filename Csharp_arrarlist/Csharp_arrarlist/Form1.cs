@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace day1
+namespace Csharp_arrarlist
 {
     public partial class Form1 : Form
     {
@@ -19,8 +19,7 @@ namespace day1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-          
-        }
 
+        }
     }
 }
